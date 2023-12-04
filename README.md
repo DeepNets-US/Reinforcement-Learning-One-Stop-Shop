@@ -13,7 +13,7 @@ Dive into Jupyter notebooks covering a range of topics:
 Explore the notebooks to learn, experiment, and craft your understanding of RL methods. Join the journey of learning and discovery as this repository continues to expand.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/DeepNets-US/Reinforcement-Learning-One-Stop-Shop`
+1. Clone the repository: `gh repo clone DeepNets-US/Reinforcement-Learning-One-Stop-Shop`
 2. Launch Jupyter Notebook.
 3. Dive into the notebooks to embark on your RL adventure.
 
